@@ -23,3 +23,4 @@ Project Website URL:
 https://sites.google.com/a/mail.harvard.edu/cs109-final-project_breast-cancer-prediction/
 
 Video URL:
+https://youtu.be/JwAD1G8jV9E
