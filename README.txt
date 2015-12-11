@@ -1,6 +1,6 @@
 Project: Breast Cancer Modeling and Prediction
 
-Group name: CBQGStars
+Group name: CBQG_Stars
 
 Group member: Suqin Hou, Wenqing Jiang, Haoquan Zhao
 
@@ -14,7 +14,7 @@ Non-standard Python libraries used:
 - import pylab
 - lifelines
 - patsy
-- lima (an R package)
+- limma (an R package)
 
 R code:
 limma.r: to discover the differential expressed genes among three subtypes and to perform the multiple hypothesis testing to adjusting the p-value (cannot be done in Python).
