@@ -1,0 +1,6 @@
+
+Breast cancer RNA-sequence data:
+https://www.dropbox.com/s/ojz358rz4va9u02/brca.txt?dl=0
+
+Clinical data:
+https://www.dropbox.com/s/f3hmfh153rlqfs6/clinical_data.csv?dl=0
